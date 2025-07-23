@@ -1,0 +1,932 @@
+[
+{
+"id": 1,
+"name": "Snail",
+"image": "",
+"rarity": "Mythical",
+"demand": "1/10",
+"value": "5T",
+"price": "$N/A",
+"info": "The snail provides an additional 5% chance (Lower for rarer plants) for a harvested plant to yield a seed. Does not boost event seeds and can stack. It has a 40% chance of being hatched from a Bug Egg. Hunger capacity: 12,000."
+},
+{
+"id": 2,
+"name": "Raccoon",
+"image": "",
+"rarity": "Divine",
+"demand": "10/10",
+"value": "3.4QD",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 3,
+"name": "Dragonfly",
+"image": "",
+"rarity": "Divine",
+"demand": "8/10",
+"value": "1.4QD",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 4,
+"name": "Night Owl",
+"image": "",
+"rarity": "Divine",
+"demand": "3/10",
+"value": "657B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 5,
+"name": "Blood Owl",
+"image": "",
+"rarity": "Divine",
+"demand": "3/10",
+"value": "100B",
+"price": "$60M",
+"info": "."
+},
+{
+"id": 6,
+"name": "Queen Bee",
+"image": "",
+"rarity": "Divine",
+"demand": "8/10",
+"value": "1.2QD",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 7,
+"name": "Grey Mouse",
+"image": "",
+"rarity": "Mythical",
+"demand": "2/10",
+"value": "3B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 8,
+"name": "Brown Mouse",
+"image": "",
+"rarity": "Mythical",
+"demand": "2/10",
+"value": "5B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 9,
+"name": "Squirrel",
+"image": "",
+"rarity": "Mythical",
+"demand": "2/10",
+"value": "10M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 10,
+"name": "Red Giant Ant",
+"image": "",
+"rarity": "Mythical",
+"demand": "2/10",
+"value": "14B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 11,
+"name": "Red Fox",
+"image": "",
+"rarity": "Mythical",
+"demand": "7/10",
+"value": "744T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 12,
+"name": "Giant Ant",
+"image": "",
+"rarity": "Mythical",
+"demand": "2/10",
+"value": "7T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 13,
+"name": "Caterpillar",
+"image": "",
+"rarity": "Mythical",
+"demand": "1/10",
+"value": "2T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 14,
+"name": "Praying Mantis",
+"image": "",
+"rarity": "Mythical",
+"demand": "3/10",
+"value": "10T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 15,
+"name": "Owl",
+"image": "",
+"rarity": "Mythical",
+"demand": "0/10",
+"value": "1B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 16,
+"name": "Chicken Zombie",
+"image": "",
+"rarity": "Mythical",
+"demand": "7/10",
+"value": "120T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 17,
+"name": "Echo Frog",
+"image": "",
+"rarity": "Mythical",
+"demand": "7/10",
+"value": "500B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 18,
+"name": "Bear Bee",
+"image": "",
+"rarity": "Mythical",
+"demand": "8/10",
+"value": "5T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 19,
+"name": "Cow",
+"image": "",
+"rarity": "Legendary",
+"demand": "1/10",
+"value": "670K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 20,
+"name": "Silver Monkey",
+"image": "",
+"rarity": "Legendary",
+"demand": "1/10",
+"value": "670K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 21,
+"name": "Sea Otter",
+"image": "",
+"rarity": "Legendary",
+"demand": "0/10",
+"value": "100K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 22,
+"name": "Turtle",
+"image": "",
+"rarity": "Legendary",
+"demand": "8/10",
+"value": "10B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 23,
+"name": "Polar Bear",
+"image": "",
+"rarity": "Legendary",
+"demand": "3/10",
+"value": "1M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 24,
+"name": "Mole",
+"image": "",
+"rarity": "Legendary",
+"demand": "1/10",
+"value": "2.5B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 25,
+"name": "Frog",
+"image": "",
+"rarity": "Legendary",
+"demand": "0/10",
+"value": "9M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 26,
+"name": "Panda",
+"image": "",
+"rarity": "Legendary",
+"demand": "3/10",
+"value": "50M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 27,
+"name": "Blood Hedgehog",
+"image": "",
+"rarity": "Legendary",
+"demand": "7/10",
+"value": "200B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 28,
+"name": "Blood Kiwi",
+"image": "",
+"rarity": "Legendary",
+"demand": "3/10",
+"value": "600M",
+"price": "$20M",
+"info": "."
+},
+{
+"id": 29,
+"name": "Petal Bee",
+"image": "",
+"rarity": "Legendary",
+"demand": "6/10",
+"value": "7T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 30,
+"name": "Orange Tabby",
+"image": "",
+"rarity": "Rare",
+"demand": "0/10",
+"value": "350K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 31,
+"name": "Pig",
+"image": "",
+"rarity": "Rare",
+"demand": "0/10",
+"value": "350K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 32,
+"name": "Spotted Deer",
+"image": "",
+"rarity": "Rare",
+"demand": "0/10",
+"value": "350K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 33,
+"name": "Rooster",
+"image": "",
+"rarity": "Rare",
+"demand": "0/10",
+"value": "350K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 34,
+"name": "Monkey",
+"image": "",
+"rarity": "Rare",
+"demand": "0/10",
+"value": "350K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 35,
+"name": "Hedgehog",
+"image": "",
+"rarity": "Rare",
+"demand": "3/10",
+"value": "1M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 36,
+"name": "Kiwi",
+"image": "",
+"rarity": "Rare",
+"demand": "2/10",
+"value": "500M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 37,
+"name": "Honey Bee",
+"image": "",
+"rarity": "Rare",
+"demand": "3/10",
+"value": "5B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 38,
+"name": "Black Bunny",
+"image": "",
+"rarity": "Uncommon",
+"demand": "0/10",
+"value": "250K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 39,
+"name": "Chicken",
+"image": "",
+"rarity": "Uncommon",
+"demand": "0/10",
+"value": "250K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 40,
+"name": "Cat",
+"image": "",
+"rarity": "Uncommon",
+"demand": "0/10",
+"value": "250K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 41,
+"name": "Deer",
+"image": "",
+"rarity": "Uncommon",
+"demand": "0/10",
+"value": "250K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 42,
+"name": "Golden Lab",
+"image": "",
+"rarity": "Common",
+"demand": "2/10",
+"value": "100K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 43,
+"name": "Dog",
+"image": "",
+"rarity": "Common",
+"demand": "0/10",
+"value": "100K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 44,
+"name": "Bunny",
+"image": "",
+"rarity": "Common",
+"demand": "0/10",
+"value": "100K",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 45,
+"name": "Bee",
+"image": "",
+"rarity": "Common",
+"demand": "2/10",
+"value": "1B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 46,
+"name": "Moth",
+"image": "",
+"rarity": "Legendary",
+"demand": "5/10",
+"value": "10T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 47,
+"name": "Tarantula Hawk",
+"image": "",
+"rarity": "Legendary",
+"demand": "1/10",
+"value": "400B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 48,
+"name": "Butterfly",
+"image": "",
+"rarity": "Mythical",
+"demand": "9/10",
+"value": "1.4QD",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 49,
+"name": "Disco Bee",
+"image": "",
+"rarity": "Divine",
+"demand": "9/10",
+"value": "1.9QD",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 50,
+"name": "Wasp",
+"image": "",
+"rarity": "Rare",
+"demand": "1/10",
+"value": "100B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 51,
+"name": "Crab",
+"image": "",
+"rarity": "Common",
+"demand": "1/10",
+"value": "10B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 52,
+"name": "Toucan",
+"image": "",
+"rarity": "Rare",
+"demand": "7/10",
+"value": "744T",
+"price": "$0",
+"info": "."
+},
+{
+"id": 53,
+"name": "Peacock",
+"image": "",
+"rarity": "Legendary",
+"demand": "2/10",
+"value": "12B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 54,
+"name": "Flamingo",
+"image": "",
+"rarity": "Rare",
+"demand": "1/10",
+"value": "500K",
+"price": "$0",
+"info": "."
+},
+{
+"id": 55,
+"name": "Seal",
+"image": "",
+"rarity": "Rare",
+"demand": "6/10",
+"value": "100B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 56,
+"name": "Orangutan",
+"image": "",
+"rarity": "Rare",
+"demand": "7/10",
+"value": "60B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 57,
+"name": "Mimic-Octopus",
+"image": "",
+"rarity": "Mythical",
+"demand": "8/10",
+"value": "1.2QD",
+"price": "$0",
+"info": "."
+},
+{
+"id": 58,
+"name": "Starfish",
+"image": "",
+"rarity": "Common",
+"demand": "Dep Age",
+"value": "100K",
+"price": "$0",
+"info": "."
+},
+{
+"id": 59,
+"name": "Scarlet-Macaw",
+"image": "",
+"rarity": "Legendary",
+"demand": "7/10",
+"value": "744T",
+"price": "$0",
+"info": "."
+},
+{
+"id": 60,
+"name": "Seagull",
+"image": "",
+"rarity": "Common",
+"demand": "2/10",
+"value": "40B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 61,
+"name": "Ostrich",
+"image": "",
+"rarity": "Legendary",
+"demand": "2/10",
+"value": "10B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 62,
+"name": "Sea-Turtle",
+"image": "",
+"rarity": "Rare",
+"demand": "2/10",
+"value": "50B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 63,
+"name": "Capybara",
+"image": "",
+"rarity": "Legendary",
+"demand": "3/10",
+"value": "10B",
+"price": "$0",
+"info": "."
+},
+{
+"id": 64,
+"name": "Moon Cat",
+"image": "",
+"rarity": "Uncommon",
+"demand": "7/10",
+"value": "2T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 65,
+"name": "Meerkat",
+"image": "",
+"rarity": "Uncommon",
+"demand": "3/10",
+"value": "200B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 66,
+"name": "Pack Bee",
+"image": "",
+"rarity": "Mythical",
+"demand": "N/A",
+"value": "N/A",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 67,
+"name": "Hyacinth Macaw",
+"image": "",
+"rarity": "Mythical",
+"demand": "N/A",
+"value": "20T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 68,
+"name": "Axolotl",
+"image": "",
+"rarity": "Mythical",
+"demand": "N/A",
+"value": "5T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 69,
+"name": "Hamster",
+"image": "",
+"rarity": "Uncommon",
+"demand": "N/A",
+"value": "3T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 70,
+"name": "Fennec Fox",
+"image": "",
+"rarity": "Divine",
+"demand": "N/A",
+"value": "1.9QD",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 71,
+"name": "Firefly",
+"image": "",
+"rarity": "Uncommon",
+"demand": "0/10",
+"value": "Tester Exclusive",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 72,
+"name": "Golden Bee",
+"image": "",
+"rarity": "Mythical",
+"demand": "N/A",
+"value": "120M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 73,
+"name": "Cooked-Owl",
+"image": "",
+"rarity": "Mythical",
+"demand": "5/10",
+"value": "55T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 74,
+"name": "Sand Snake",
+"image": "",
+"rarity": "Legendary",
+"demand": "8/10",
+"value": "230B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 75,
+"name": "Bald Eagle",
+"image": "",
+"rarity": "Common",
+"demand": "Pending",
+"value": "100M",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 76,
+"name": "Brontosaurus",
+"image": "",
+"rarity": "Mythical",
+"demand": "7/10",
+"value": "700t",
+"price": "$0",
+"info": "."
+},
+{
+"id": 77,
+"name": "Pterodactyl",
+"image": "",
+"rarity": "Common",
+"demand": "4/10",
+"value": "8T",
+"price": "$0",
+"info": "."
+},
+{
+"id": 78,
+"name": "T-Rex",
+"image": "",
+"rarity": "Divine",
+"demand": "8/10",
+"value": "1.5QD",
+"price": "$0",
+"info": "."
+},
+{
+"id": 79,
+"name": "Stegosaurus",
+"image": "",
+"rarity": "Legendary",
+"demand": "Pending",
+"value": "700M",
+"price": "$0",
+"info": "."
+},
+{
+"id": 80,
+"name": "Triceratops",
+"image": "",
+"rarity": "Legendary",
+"demand": "Pending",
+"value": "600M",
+"price": "$0",
+"info": "."
+},
+{
+"id": 81,
+"name": "Raptor",
+"image": "",
+"rarity": "Legendary",
+"demand": "Pending",
+"value": "100M",
+"price": "$0",
+"info": "."
+},
+{
+"id": 82,
+"name": "Shiba Inu",
+"image": "",
+"rarity": "Uncommon",
+"demand": "Pending",
+"value": "Pending",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 83,
+"name": "Nihonzaru",
+"image": "",
+"rarity": "Rare",
+"demand": "Pending",
+"value": "Pending",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 84,
+"name": "Tanuki",
+"image": "",
+"rarity": "Legendary",
+"demand": "Pending",
+"value": "Pending",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 85,
+"name": "Tanchozuru",
+"image": "",
+"rarity": "Legendary",
+"demand": "Pending",
+"value": "Pending",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 86,
+"name": "Kappa",
+"image": "",
+"rarity": "Mythical",
+"demand": "Pending",
+"value": "Pending",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 87,
+"name": "Kitsune",
+"image": "",
+"rarity": "Prismatic",
+"demand": "Pending",
+"value": "Pending",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 88,
+"name": "Parasaurolophus",
+"image": "",
+"rarity": "Uncommon",
+"demand": "2/10",
+"value": "200B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 89,
+"name": "Iguanodon",
+"image": "",
+"rarity": "Uncommon",
+"demand": "2/10",
+"value": "200B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 90,
+"name": "Pachycephalosaurus",
+"image": "",
+"rarity": "Uncommon",
+"demand": "2/10",
+"value": "500B",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 91,
+"name": "Dilophosaurus",
+"image": "",
+"rarity": "Mythical",
+"demand": "8/10",
+"value": "50T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 92,
+"name": "Ankylosaurus",
+"image": "",
+"rarity": "Uncommon",
+"demand": "0/10",
+"value": "30T",
+"price": "$N/A",
+"info": "."
+},
+{
+"id": 93,
+"name": "Spinosaurus",
+"image": "",
+"rarity": "Uncommon",
+"demand": "8/10",
+"value": "2QD",
+"price": "$N/A",
+"info": "."
+}
+]
